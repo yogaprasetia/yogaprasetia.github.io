@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @yogaprasetia
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Cloud Computing
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me ig : @yogaprz
 
